@@ -1,0 +1,5 @@
+Восточный маркетинг:/ru/msk/east,/ru/spb/east
+Северная звезда:/ru/svrd/north,/ru/svrd/kamensk
+Городские новости:/ru/ekb,/ru/novosib,/ru/tumen
+Лучшие объявления:/ru/msk,/ru/spb
+Эко-реклама:/ru/svrd/revda,/ru/svrd/nizhniy
