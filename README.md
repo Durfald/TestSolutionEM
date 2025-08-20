@@ -18,17 +18,6 @@
 
 ```
 
-AdvertisingPlatformService/
-├─ ADs/                  # Папка с файлами данных (ad.txt)
-├─ Controllers/          # API контроллеры
-├─ Models/               # Модели данных
-├─ Services/
-│   ├─ Ads/              # Бизнес-логика (AdvertisingService)
-│   ├─ Parser/           # Парсер файлов (FileParser)
-│   └─ Storage/MemoryStorage/ # In-memory кэш (MemoryCacheService)
-├─ Tests/                # Юнит-тесты
-├─ TestSolution.sln      # Сборка решения
-
 ````
 
 ## 1️⃣ Скачивание проекта
